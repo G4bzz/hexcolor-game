@@ -34,7 +34,6 @@ export default function ColorBox(){
 		generateColors();
 	};
 
-	console.log(actualColor);
 	return(
 		<div className={styles.mainContainer}>
 			<h1>Points: {correctAnswersCount}</h1>

@@ -1,4 +1,3 @@
-import './App.css'
 import ColorBox from './components/colorbox';
 
 function App() {
